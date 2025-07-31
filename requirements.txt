@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+openai
+fitz # PyMuPDF
+pdf2image
+Pillow
+transformers
+pytesseract
