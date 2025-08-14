@@ -2,7 +2,7 @@ streamlit
 pandas
 plotly
 openai
-fitz # PyMuPDF
+PyMuPDF
 pdf2image
 Pillow
 transformers
